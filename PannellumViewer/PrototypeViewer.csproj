@@ -100,6 +100,8 @@
     <Content Include="Default.aspx" />
     <Content Include="images\examplepano.jpg" />
     <Content Include="Script\css\pannellum.css" />
+    <Content Include="Script\css\Style.css" />
+    <Content Include="Script\js\aframe-master.js" />
     <Content Include="Script\js\libpannellum.js" />
     <Content Include="Script\js\pannellum.js" />
     <Content Include="Web.config" />
